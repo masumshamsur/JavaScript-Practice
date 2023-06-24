@@ -1,5 +1,5 @@
 
-var str="shamsurrahmanmasum";
+var str="shamsur rahman masum";
 
 
 const reverseAstring=(str)=>{

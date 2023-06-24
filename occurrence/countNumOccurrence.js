@@ -11,4 +11,4 @@ const countOccurrence=(arr)=>{
 
 }
 
-console.log("Occurrence- "+countOccurrence(numArr));
+console.log(countOccurrence(numArr));
